@@ -8,7 +8,11 @@ function Header() {
     <div className=" bg-black text-white flex justify-between items-center px-8">
       <div className="flex gap-8 items-center">
         <Link to={"/"}>
-          <img className="w-14" src="/netflix.png" alt="netflix" />
+          <img
+            className="w-14"
+            src={`${import.meta.env.VITE_BASE_URL}netflix.png`}
+            alt="netflix"
+          />
         </Link>
         <div className="flex gap-4">
           <Link to={"/search?mediaType=movie"}>Movie</Link>

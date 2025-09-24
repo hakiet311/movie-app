@@ -58,7 +58,7 @@ function MovieCard({ data, pathNameToLink }) {
               ? `https://image.tmdb.org/t/p/original${
                   poster_path || profile_path
                 }`
-              : `/No_Image_Available.jpg`
+              : `${import.meta.env.VITE_BASE_URL}No_Image_Available.jpg`
           }
           alt={title}
           className={"object-cover object-center w-full h-full"}
