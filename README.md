@@ -1,7 +1,1 @@
-# React + Vite
 
-API Read Access Token
-eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxZmNkMzM1YzAxMjkyMTdiM2I2MDI3ODgyMmNhNDk4MCIsIm5iZiI6MTc1Nzc3NDc3Ny45Niwic3ViIjoiNjhjNTgzYjlhYjdlZjhhZDZlZGY5ZGQ4Iiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.8d0sVK2TJPOzFBr8ktB_pLDtqDp3Ynbw23Utqx8ZJEg
-
-API Key
-1fcd335c0129217b3b60278822ca4980
