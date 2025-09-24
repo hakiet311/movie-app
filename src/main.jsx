@@ -35,7 +35,9 @@ const router = createBrowserRouter([
       },
     ],
   },
-]);
+],
+{basename: '/movie-app'}
+);
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
